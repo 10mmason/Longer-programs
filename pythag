@@ -1,0 +1,5 @@
+def getA():
+    A = input("Input a here. ")
+    return A
+
+def get 

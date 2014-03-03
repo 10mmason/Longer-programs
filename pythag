@@ -1,5 +1,8 @@
 def getA():
-    A = input("Input a here. ")
+    A = input("Input, a here. ")
     return A
 
-def get 
+def getB():
+    B = input("input, b here. ")
+    return B
+
